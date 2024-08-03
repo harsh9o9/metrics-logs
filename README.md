@@ -41,4 +41,5 @@ docker compose up --build
 ### Attachments
 <img width="1680" alt="Grafana" src="https://github.com/user-attachments/assets/7dd190ba-8239-4fc7-87f6-6ed4018d3ce6">
 <img width="1680" alt="Prometheus" src="https://github.com/user-attachments/assets/d032321e-d401-4cff-b211-82bcb748e5a0">
+<img width="1302" alt="Containers" src="https://github.com/user-attachments/assets/6a3c6fe6-a41c-43fb-a245-8e2b8a56b93a">
 
